@@ -55,7 +55,7 @@ When I’m not coding, you can find me:
 
 ## 📫 Let's Connect
 
-I’m always open to collaboration, mentorship, and new opportunities. ✨ Reach out — let’s build something amazing together!
+I’m always open to collaboration, mentorship, and new opportunities. Reach out — let’s build something amazing together!
 
 <!--
 **Bmeera/Bmeera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
