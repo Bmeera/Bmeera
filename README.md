@@ -1,13 +1,10 @@
 ## Hi there, I'm Ameerat! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameerat-bello)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white)](https://www.ameeratbello.com)
-
 ---
 
 ## 🚀 About Me
 
-I'm a Software Engineer with 3+ years of experience. I have a solid background in Computer Science and I am passionate about sustainability. I love solving real-world problems with clean, scalable code and I enjoy collaborating on creative projects.  I am on a mission to use tech for good.
+I'm a Software Engineer with 3+ years of experience and I have a solid background in Computer Science. I am also deeply passionate about sustainability. I love solving real-world problems with clean, scalable code and I enjoy collaborating on creative projects.
 
 ---
 
