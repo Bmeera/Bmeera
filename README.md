@@ -49,7 +49,6 @@ When I’m not coding, you can find me:
 - 👩🏽💻 Hosting a webinar
 - ✍️ Writing or journaling
 - ✈️ Traveling and experiencing new cultures
-- ☕ Hanging out with friends and discussing ideas
 - 📚 Reading about software design, AI, or tech-enabled sustainability
 
 ---
