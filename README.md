@@ -1,14 +1,20 @@
 ## Hi there, I'm Ameerat! 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameerat-bello/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/dream_bmeera)
 
 ---
 
 ## 🚀 About Me
 
-I'm a Software Engineer with 3+ years of experience and I have a solid background in Computer Science. I am also deeply passionate about sustainability. I love solving real-world problems with clean, scalable code and I enjoy collaborating on creative projects.
+I'm a Software Engineer with 3+ years of experience and I have a solid background in Computer Science. I specialize in Python, Javascript (Typescript, React.js, Next.js, React Native), C#, Kotlin, Dart, PHP, and DevOps tools like Docker and Kubernetes.
+
+I am also deeply passionate about sustainability. I am the cofounder of Recyklable, a nonprofit using tech to drive climate awareness, education, and action. 
+
+I love solving real-world problems with clean, scalable code and I enjoy collaborating on exciting projects! 🚀
 
 ---
 
-## 🛠️ Languages & Tools
+## 🚀 Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
@@ -17,6 +23,7 @@ I'm a Software Engineer with 3+ years of experience and I have a solid backgroun
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
@@ -34,15 +41,23 @@ I'm a Software Engineer with 3+ years of experience and I have a solid backgroun
 
 ---
 
-## ✨ GitHub Stats
+## 🎯 Hobbies & Interests
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bmeera&show_icons=true&hide=issues&theme=radical)
+When I’m not coding, you can find me:
+
+- 🎤 Singing my heart out (singing makes me happy)
+- 👩🏽💻 Hosting a webinar (especially climate or tech related)
+- ✍️ Writing or journaling
+- ✈️ Traveling and experiencing new cultures
+- 🎧 Listening to music
+- ☕ Hanging out with friends and discussing ideas
+- 📚 Reading about software design, AI, or tech-enabled sustainability
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always open to collaboration, mentorship, and new opportunities. Let's build something amazing together!
+I’m always open to collaboration, mentorship, and new opportunities. ✨ Reach out — let’s build something amazing together!
 
 <!--
 **Bmeera/Bmeera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
