@@ -1,16 +1,13 @@
 ## Hi there, I'm Ameerat! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameerat-bello)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white)](https://www.ameeratbello.com)
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate Software Engineer with a strong background in Computer Science and a deep interest in sustainability and real-world impact. I enjoy building meaningful products — from mobile to web apps — and I'm always excited to learn, grow, and collaborate on projects that matter.
-
-I'm currently a Graduate Teaching Assistant, co-founder of Recyklable (a climate-focused nonprofit), and on a mission to use tech for good.
+I'm a Software Engineer with 3+ years of expereince. I have a solid background in Computer Science and I am passionate about sustainability. I love solving real-world problems with clean, scalable code and I enjoy collaborating on creative projects.  I am on a mission to use tech for good.
 
 ---
 
@@ -48,7 +45,7 @@ I'm currently a Graduate Teaching Assistant, co-founder of Recyklable (a climate
 
 ## 📫 Let's Connect
 
-I'm always open to collaboration, mentorship, and new opportunities. Let's build something powerful together!
+I'm always open to collaboration, mentorship, and new opportunities. Let's build something amazing together!
 
 <!--
 **Bmeera/Bmeera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
