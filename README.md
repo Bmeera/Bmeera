@@ -45,11 +45,10 @@ I love solving real-world problems with clean, scalable code and I enjoy collabo
 
 When I’m not coding, you can find me:
 
-- 🎤 Singing my heart out (singing makes me happy)
-- 👩🏽💻 Hosting a webinar (especially climate or tech related)
+- 🎤 Singing my heart out (singing makes me happy ☺️)
+- 👩🏽💻 Hosting a webinar
 - ✍️ Writing or journaling
 - ✈️ Traveling and experiencing new cultures
-- 🎧 Listening to music
 - ☕ Hanging out with friends and discussing ideas
 - 📚 Reading about software design, AI, or tech-enabled sustainability
 
