@@ -1,7 +1,5 @@
 ## Hi there, I'm Ameerat! 👋
-![Profile Views](https://komarev.com/ghpvc/?username=bmeera&color=8B4513)
 
-## 💬 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameerat-bello/)
 [![Email](https://img.shields.io/badge/-Email-333?style=flat&logo=gmail&logoColor=white)](mailto:hello.ameerat@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/dream_bmeera)
