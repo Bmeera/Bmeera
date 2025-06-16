@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a Software Engineer with 3+ years of experience and I have a solid background in Computer Science. I specialize in Python, Javascript (Typescript, React.js, Next.js, React Native), C#, Kotlin, Dart, PHP, and DevOps tools like Docker and Kubernetes.
+I'm a Software Engineer with 4+ years of experience and I have a solid background in Computer Science. I specialize in Python, Javascript (Typescript, React.js, Next.js, React Native), C#, Kotlin, Dart, PHP, and DevOps tools like Docker and Kubernetes.
 
 I am also deeply passionate about sustainability. I love solving real-world problems with clean, scalable code and I enjoy collaborating on exciting projects! 🚀
 
